@@ -1,0 +1,12 @@
+---
+layout: post
+title: "2010-06-27"
+date: 2010-06-27 22:19
+comments: true
+keywords: "2010/06/27, Melachim, Navi, Passaic, kol haloshon navi passaic, navi" 
+categories: 
+---
+
+ * {% audio http://historic.torahstream.org/cas/a798806a96cf641b9c0d5855ab6a162de77de55a0bc87df4163c8bec68403b38/data.m4a %}
+ * {% audio http://historic.torahstream.org/cas/6ec5cdc7cfefb27bca6d3b3b26fe7f34a61aa80c9ffe6a19c6b758afcb85f972/data.m4a %}
+

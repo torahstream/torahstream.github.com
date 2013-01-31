@@ -1,0 +1,12 @@
+---
+layout: post
+title: "2011-02-12"
+date: 2011-02-12 22:19
+comments: true
+keywords: "Chumash, Navi, Passaic, kol haloshon navi passaic" 
+categories: 
+---
+
+ * {% audio http://historic.torahstream.org/cas/b9e5e24900fe092b3b56b45534fe574a21fa39b648ece14ce5815525fca80316/data.m4a %}
+ * {% audio http://historic.torahstream.org/cas/29fc12c882d31a897d3bff2fc99fa3afddda2bc5ffb75cddddeb914068ce6f10/data.m4a %}
+

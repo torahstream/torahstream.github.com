@@ -1,0 +1,12 @@
+---
+layout: post
+title: "2009-12-05"
+date: 2009-12-05 22:19
+comments: true
+keywords: "Navi, Passaic, kol haloshon navi passaic" 
+categories: 
+---
+
+ * {% audio http://historic.torahstream.org/cas/74e9de263b27e68ab72e7953a377d0da09ed386b45f9df7e88cab229bc41437e/data.m4a %}
+ * {% audio http://historic.torahstream.org/cas/4c007184aa9b10f81556c372017aa02d02a88fea9c6f8dd0bfd5eb341e56a820/data.m4a %}
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "2010-04-18"
+date: 2010-04-18 22:19
+comments: true
+keywords: "2010/04/18, Navi, Passaic, kol haloshon navi passaic, navi" 
+categories: 
+---
+
+ * {% audio http://historic.torahstream.org/cas/08e111d5faadf09b1d1db6b89b148916629ed87ae414228efe9b424e87f39451/data.m4a %}
+ * {% audio http://historic.torahstream.org/cas/ee7cdc24edd2839de9a7955fb28e9feed4c7b359fad14a841f8a469b7db0af8d/data.m4a %}
+ * {% audio http://historic.torahstream.org/cas/c153231414dba531229e66201c6695389c71a5b4998bbc373687afc8e91b86a5/data.m4a %}
+

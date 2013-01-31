@@ -1,0 +1,12 @@
+---
+layout: post
+title: "2009-12-12"
+date: 2009-12-12 22:19
+comments: true
+keywords: "Chanuka, Navi, Passaic, kol haloshon navi passaic" 
+categories: 
+---
+
+ * {% audio http://historic.torahstream.org/cas/c8bf195e27c47a72fec2e5cda053b60135eb468d7b9e680c2f7c72bb8e33d9d2/data.m4a %}
+ * {% audio http://historic.torahstream.org/cas/54ae6b8590298034ae60aec5aab4346b80883e8608cd4b26d5bb342de5265972/data.m4a %}
+
