@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://torahstream.github.com
+title: Todos for torahstream.org
+subtitle: A site with links to uncategorized shiurim
+author: Webmaster Torahstream
 simple_search: http://google.com/search
 description:
 
