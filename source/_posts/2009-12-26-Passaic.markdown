@@ -4,9 +4,9 @@ title: "2009-12-26"
 date: 2009-12-26 22:19
 comments: true
 keywords: "Navi, Passaic, kol haloshon navi passaic" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/3c96e9f468bd1159aecd6d9f1bff5b5893740fb256a529c7f8368e40002c37ba/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/4568dad4d99ed7173233a0478a339787e93f53e7cec90fe8c0b945ce8c21dd16/data.m4a %}
+ * 4451 {% audio http://historic.torahstream.org/cas/3c96e9f468bd1159aecd6d9f1bff5b5893740fb256a529c7f8368e40002c37ba/data.m4a %}
+ * 5169 {% audio http://historic.torahstream.org/cas/4568dad4d99ed7173233a0478a339787e93f53e7cec90fe8c0b945ce8c21dd16/data.m4a %}
 

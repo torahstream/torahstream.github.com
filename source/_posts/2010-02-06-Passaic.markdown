@@ -4,10 +4,10 @@ title: "2010-02-06"
 date: 2010-02-06 22:19
 comments: true
 keywords: "2010/02/06, Melachim, Navi, Passaic, kol haloshon navi passaic, navi" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/5f6994ea08dcefa72634dbc019443c9c909a2b4f1745f7958e4ca73266eaeb7c/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/9fb5edbf6e6194fbb8cac2215311ec662cb536d994493041dd90a954a92fc6f9/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/1ce210e491308429c0e69b87981015fb864b7041e4a853a2ec7507630c32454c/data.m4a %}
+ * 7191 {% audio http://historic.torahstream.org/cas/5f6994ea08dcefa72634dbc019443c9c909a2b4f1745f7958e4ca73266eaeb7c/data.m4a %}
+ * 12007 {% audio http://historic.torahstream.org/cas/9fb5edbf6e6194fbb8cac2215311ec662cb536d994493041dd90a954a92fc6f9/data.m4a %}
+ * 2163 {% audio http://historic.torahstream.org/cas/1ce210e491308429c0e69b87981015fb864b7041e4a853a2ec7507630c32454c/data.m4a %}
 

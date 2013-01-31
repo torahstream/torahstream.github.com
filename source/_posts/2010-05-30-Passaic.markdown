@@ -4,9 +4,9 @@ title: "2010-05-30"
 date: 2010-05-30 22:19
 comments: true
 keywords: "2010/05/30, Navi, Passaic, kol haloshon navi passaic, navi" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/18a79122018073a9c906439e9b1fd3a151296d32def9d3dd67c2f1d587d7af65/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/6d8def3819ee0b0982d04f884dd041214c4111dc4173a2389c1847309606c256/data.m4a %}
+ * 1823 {% audio http://historic.torahstream.org/cas/18a79122018073a9c906439e9b1fd3a151296d32def9d3dd67c2f1d587d7af65/data.m4a %}
+ * 8303 {% audio http://historic.torahstream.org/cas/6d8def3819ee0b0982d04f884dd041214c4111dc4173a2389c1847309606c256/data.m4a %}
 

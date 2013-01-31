@@ -4,9 +4,9 @@ title: "2011-03-12"
 date: 2011-03-12 22:19
 comments: true
 keywords: "Navi, Passaic, Purim, kol haloshon navi passaic" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/52bf7d2608865f567d12ee15c6a4c9f2521b8caac87aadaea87ce672daf0e0b5/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/3ebc6633cc8d793f498fbcd804480f691dcac8990f47189e385072b8f1998838/data.m4a %}
+ * 6183 {% audio http://historic.torahstream.org/cas/52bf7d2608865f567d12ee15c6a4c9f2521b8caac87aadaea87ce672daf0e0b5/data.m4a %}
+ * 4623 {% audio http://historic.torahstream.org/cas/3ebc6633cc8d793f498fbcd804480f691dcac8990f47189e385072b8f1998838/data.m4a %}
 

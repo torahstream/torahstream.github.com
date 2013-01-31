@@ -4,11 +4,11 @@ title: "2010-03-13"
 date: 2010-03-13 22:19
 comments: true
 keywords: "2010/03/13, Navi, Passaic, kol haloshon navi passaic, navi" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/b271252cc1abeacbd20b5686e888f966a3f7b38d43c91bbf29cf8e2868a75951/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/c87939c7a6b69428bb51b4fe78533ef9af37c113534c08d9e1bb3c253b5743db/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/7a6701d6049f9f941880b4948235938689e3ccd990b9d4746dc21149c29e8ec9/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/a038906dd9549805a2ebe1003cf401f6d970546138181a33dff9875c44ecd5aa/data.m4a %}
+ * 13459 {% audio http://historic.torahstream.org/cas/b271252cc1abeacbd20b5686e888f966a3f7b38d43c91bbf29cf8e2868a75951/data.m4a %}
+ * 15163 {% audio http://historic.torahstream.org/cas/c87939c7a6b69428bb51b4fe78533ef9af37c113534c08d9e1bb3c253b5743db/data.m4a %}
+ * 9233 {% audio http://historic.torahstream.org/cas/7a6701d6049f9f941880b4948235938689e3ccd990b9d4746dc21149c29e8ec9/data.m4a %}
+ * 12071 {% audio http://historic.torahstream.org/cas/a038906dd9549805a2ebe1003cf401f6d970546138181a33dff9875c44ecd5aa/data.m4a %}
 

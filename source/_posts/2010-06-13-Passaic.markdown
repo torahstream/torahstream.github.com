@@ -4,10 +4,10 @@ title: "2010-06-13"
 date: 2010-06-13 22:19
 comments: true
 keywords: "2010/06/13, Navi, Passaic, kol haloshon navi passaic, navi" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/fa3cacb11a4b8bb656c8a1017213c3aabb6d51d03822b5758ad14f4cb480f098/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/1f3b2883f79cbc79de7562af4ae142d689eb356de89b414a5583b32c36b7bf38/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/326b1acc4a310788429d7ad0485661c0a6a6ff2e2754c2662a9258d557c57420/data.m4a %}
+ * 18847 {% audio http://historic.torahstream.org/cas/fa3cacb11a4b8bb656c8a1017213c3aabb6d51d03822b5758ad14f4cb480f098/data.m4a %}
+ * 2337 {% audio http://historic.torahstream.org/cas/1f3b2883f79cbc79de7562af4ae142d689eb356de89b414a5583b32c36b7bf38/data.m4a %}
+ * 3829 {% audio http://historic.torahstream.org/cas/326b1acc4a310788429d7ad0485661c0a6a6ff2e2754c2662a9258d557c57420/data.m4a %}
 

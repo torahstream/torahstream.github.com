@@ -4,9 +4,9 @@ title: "2010-07-12"
 date: 2010-07-12 22:19
 comments: true
 keywords: "2010/07/12, Melachim, Navi, Passaic, kol haloshon navi passaic, navi" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/b63851e6234c616a8b11459aa56a8c41388862604a860ac14586217883c407b1/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/9fa704144c476d4b4c6cfdc06d558e70787cc037927098501592daa2e5c55f45/data.m4a %}
+ * 13739 {% audio http://historic.torahstream.org/cas/b63851e6234c616a8b11459aa56a8c41388862604a860ac14586217883c407b1/data.m4a %}
+ * 11995 {% audio http://historic.torahstream.org/cas/9fa704144c476d4b4c6cfdc06d558e70787cc037927098501592daa2e5c55f45/data.m4a %}
 

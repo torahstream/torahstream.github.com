@@ -4,8 +4,8 @@ title: "2010-10-24"
 date: 2010-10-24 22:19
 comments: true
 keywords: "Navi, Passaic" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/2299ada3476dd7a48660cf2da7fec6f114364337116d851a2e57b004f748d4d8/data.m4a %}
+ * 2577 {% audio http://historic.torahstream.org/cas/2299ada3476dd7a48660cf2da7fec6f114364337116d851a2e57b004f748d4d8/data.m4a %}
 

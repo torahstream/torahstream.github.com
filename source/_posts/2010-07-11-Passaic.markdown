@@ -4,8 +4,8 @@ title: "2010-07-11"
 date: 2010-07-11 22:19
 comments: true
 keywords: "Navi, Passaic" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/67fc4ff0c1cf4dfb983e5aed2a2f46d91b47e65f1c59654e03d51046abbad0b2/data.m4a %}
+ * 7873 {% audio http://historic.torahstream.org/cas/67fc4ff0c1cf4dfb983e5aed2a2f46d91b47e65f1c59654e03d51046abbad0b2/data.m4a %}
 

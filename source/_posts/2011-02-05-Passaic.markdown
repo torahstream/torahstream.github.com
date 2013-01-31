@@ -4,9 +4,9 @@ title: "2011-02-05"
 date: 2011-02-05 22:19
 comments: true
 keywords: "Chumash, Navi, Passaic, kol haloshon navi passaic" 
-categories: 
+categories: Passaic 
 ---
 
- * {% audio http://historic.torahstream.org/cas/8c450480a089d5c1aeef134de92efc34a49ae2fe5a2f38835108a9856b0fde6e/data.m4a %}
- * {% audio http://historic.torahstream.org/cas/836bd6bb2ad221e5fa59a0ffb6401398a6b3ae4f2027ee83454c565f34002679/data.m4a %}
+ * 10553 {% audio http://historic.torahstream.org/cas/8c450480a089d5c1aeef134de92efc34a49ae2fe5a2f38835108a9856b0fde6e/data.m4a %}
+ * 9855 {% audio http://historic.torahstream.org/cas/836bd6bb2ad221e5fa59a0ffb6401398a6b3ae4f2027ee83454c565f34002679/data.m4a %}
 
