@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Passaic 2009-11-21"
+date: 2009-11-21 22:19
+comments: true
+keyword: Passaic , Navi, Shmuel, Melachim
+categories: 
+---
+
+Shiur from Passaic, first one to have sefer Melachim (begin at 46:30)
+
+{% audio http://historic.torahstream.org/cas/45f7a3f9808516822539719e21436731844b9e87b46b721cd11ee4ad03250e77/data.m4a %}
