@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Todos for torahstream.org]]></title>
   <link href="http://torahstream.github.com/atom.xml" rel="self"/>
   <link href="http://torahstream.github.com/"/>
-  <updated>2013-01-31T11:02:47-05:00</updated>
+  <updated>2013-01-31T11:31:07-05:00</updated>
   <id>http://torahstream.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Webmaster Torahstream]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Passaic 2009-11-21]]></title>
+    <link href="http://torahstream.github.com/blog/2009/11/21/Passaic/"/>
+    <updated>2009-11-21T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2009/11/21/Passaic</id>
+    <content type="html"><![CDATA[<p>Shiur from Passaic, first one to have sefer Melachim (begin at 46:30)</p>
+
+<p><audio controls><source src='http://historic.torahstream.org/cas/45f7a3f9808516822539719e21436731844b9e87b46b721cd11ee4ad03250e77/data.m4a'></audio></p>
+]]></content>
+  </entry>
   
 </feed>
