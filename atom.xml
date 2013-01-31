@@ -4,7 +4,7 @@
   <title><![CDATA[Todos for torahstream.org]]></title>
   <link href="http://torahstream.github.com/atom.xml" rel="self"/>
   <link href="http://torahstream.github.com/"/>
-  <updated>2013-01-31T12:56:31-05:00</updated>
+  <updated>2013-01-31T13:38:05-05:00</updated>
   <id>http://torahstream.github.com/</id>
   <author>
     <name><![CDATA[Webmaster Torahstream]]></name>
@@ -14,13 +14,255 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Passaic 2009-11-21]]></title>
-    <link href="http://torahstream.github.com/blog/2009/11/21/Passaic/"/>
-    <updated>2009-11-21T22:19:00-05:00</updated>
-    <id>http://torahstream.github.com/blog/2009/11/21/Passaic</id>
-    <content type="html"><![CDATA[<p>Shiur from Passaic, first one to have sefer Melachim (begin at 46:30)</p>
+    <title type="html"><![CDATA[2011-03-12]]></title>
+    <link href="http://torahstream.github.com/blog/2011/03/12/Passaic/"/>
+    <updated>2011-03-12T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/03/12/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/52bf7d2608865f567d12ee15c6a4c9f2521b8caac87aadaea87ce672daf0e0b5/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/3ebc6633cc8d793f498fbcd804480f691dcac8990f47189e385072b8f1998838/data.m4a'></audio></li>
+</ul>
 
-<p><audio controls><source src='http://historic.torahstream.org/cas/45f7a3f9808516822539719e21436731844b9e87b46b721cd11ee4ad03250e77/data.m4a'></audio></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-03-05]]></title>
+    <link href="http://torahstream.github.com/blog/2011/03/05/Passaic/"/>
+    <updated>2011-03-05T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/03/05/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/c2dfeebe3fc01ede1c590e36680050f4377f7cccddcc656d9a51ea17843a01dc/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/6be5a744e03e176b36cc9f436b2bdc2999d5ff04dd673e263fd217a895881960/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-02-26]]></title>
+    <link href="http://torahstream.github.com/blog/2011/02/26/Passaic/"/>
+    <updated>2011-02-26T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/02/26/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/90051c6abe599e329b65e14576eb47e58ebc1162173b87775ccb247a1a863a6d/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/391239c7171f4ef430451b2894f0327427b6343554024d96815b8f446caf3b89/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-02-19]]></title>
+    <link href="http://torahstream.github.com/blog/2011/02/19/Passaic/"/>
+    <updated>2011-02-19T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/02/19/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/3828f9dc04465d31b3396c32392067bea17c10a2400a9fdb01cd6ebd81433107/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/2c2ac303f934681d215cb6138b89a7be87ef803fc06fcad0c20b9db57736afb7/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-02-12]]></title>
+    <link href="http://torahstream.github.com/blog/2011/02/12/Passaic/"/>
+    <updated>2011-02-12T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/02/12/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/b9e5e24900fe092b3b56b45534fe574a21fa39b648ece14ce5815525fca80316/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/29fc12c882d31a897d3bff2fc99fa3afddda2bc5ffb75cddddeb914068ce6f10/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-02-05]]></title>
+    <link href="http://torahstream.github.com/blog/2011/02/05/Passaic/"/>
+    <updated>2011-02-05T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/02/05/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/8c450480a089d5c1aeef134de92efc34a49ae2fe5a2f38835108a9856b0fde6e/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/836bd6bb2ad221e5fa59a0ffb6401398a6b3ae4f2027ee83454c565f34002679/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-01-28]]></title>
+    <link href="http://torahstream.github.com/blog/2011/01/28/Passaic/"/>
+    <updated>2011-01-28T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/01/28/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/78339e31b87da04ed684ac8b6e7161dbcc2607a4fe6e9843d20c504df3bee990/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-01-22]]></title>
+    <link href="http://torahstream.github.com/blog/2011/01/22/Passaic/"/>
+    <updated>2011-01-22T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/01/22/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/3adcc699877895b2c68056924978989a11392cd7342b3e865e8b6d94abb5b0f5/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-01-21]]></title>
+    <link href="http://torahstream.github.com/blog/2011/01/21/Passaic/"/>
+    <updated>2011-01-21T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/01/21/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/d30804e2a9f8465a1399d124b676223957700796232262fb7b79a6a077288fb9/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-01-15]]></title>
+    <link href="http://torahstream.github.com/blog/2011/01/15/Passaic/"/>
+    <updated>2011-01-15T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/01/15/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/1f14783d3a0165f0afdc3a5a315c39361c5585121704d9fc23804287320aaf12/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011-01-01]]></title>
+    <link href="http://torahstream.github.com/blog/2011/01/01/Passaic/"/>
+    <updated>2011-01-01T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2011/01/01/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/d4d744c5df618af4805d72ae406e680debbe7c585c09277cc046ed4b7c52a9ed/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/f0248e644d6917d04e96c59d52f72cc3e7da6802e04ad0d4a0747a880240e814/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-12-25]]></title>
+    <link href="http://torahstream.github.com/blog/2010/12/25/Passaic/"/>
+    <updated>2010-12-25T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2010/12/25/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/18f55aa7bfd7e5628f2ef9e1a611f1ee8e014e29c086c9609dd31f5fb745a400/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/fec49fce348cea9c378068b70217e5fdb48a0ac7eefe82453625800f05db0e9f/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-12-18]]></title>
+    <link href="http://torahstream.github.com/blog/2010/12/18/Passaic/"/>
+    <updated>2010-12-18T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2010/12/18/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/38ed1a410ed2c570f42ee6c45cbbe4d20bb10513c89473f7524691c2722308df/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/8554976abded0d1634271e6538080b292af05a536a1fd43bbb578e97ae9be9f0/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-12-11]]></title>
+    <link href="http://torahstream.github.com/blog/2010/12/11/Passaic/"/>
+    <updated>2010-12-11T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2010/12/11/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/f01c162165c592b04c2cf44a93be272bb530568c2bf0630c3375ee4d12ad7bd4/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/88fc0ac9230f3caad76d202fc077abf9e03a42eb522ba8451b39db177047958b/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-11-27]]></title>
+    <link href="http://torahstream.github.com/blog/2010/11/27/Passaic/"/>
+    <updated>2010-11-27T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2010/11/27/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/bdf96961c129258ccb06dfb639ef67508f56d302b914a1aa8476eecb71b8202e/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/06b6f881623dc225e1136c195868dbbb24556f5ca0040e1da85e050abb697e79/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-11-13]]></title>
+    <link href="http://torahstream.github.com/blog/2010/11/13/Passaic/"/>
+    <updated>2010-11-13T22:19:00-05:00</updated>
+    <id>http://torahstream.github.com/blog/2010/11/13/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/1db06543879e8058444e862f8409d9fc55c32fcb27e4d2673fb6a3b65eae99d9/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/b24ffb454f03f3c612be043ec7f4167add84771222e5deaf5db32b66162ef1f5/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-11-06]]></title>
+    <link href="http://torahstream.github.com/blog/2010/11/06/Passaic/"/>
+    <updated>2010-11-06T22:19:00-04:00</updated>
+    <id>http://torahstream.github.com/blog/2010/11/06/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/63dee47afe820c8919f7961cb68861a300d5f919d0b8f39b8a54a4fa8dca1e53/data.m4a'></audio></li>
+<li><audio controls><source src='http://historic.torahstream.org/cas/cd13337e88886e232fe4e7a1552a97515315eeeb9c53e4ac8eddeb6caf301e2f/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-10-24]]></title>
+    <link href="http://torahstream.github.com/blog/2010/10/24/Passaic/"/>
+    <updated>2010-10-24T22:19:00-04:00</updated>
+    <id>http://torahstream.github.com/blog/2010/10/24/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/2299ada3476dd7a48660cf2da7fec6f114364337116d851a2e57b004f748d4d8/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-10-23]]></title>
+    <link href="http://torahstream.github.com/blog/2010/10/23/Passaic/"/>
+    <updated>2010-10-23T22:19:00-04:00</updated>
+    <id>http://torahstream.github.com/blog/2010/10/23/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/3d0999897be872b2a81fea45de4be6c6c88594080fbcfbe3eb193294bb4d699b/data.m4a'></audio></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2010-10-17]]></title>
+    <link href="http://torahstream.github.com/blog/2010/10/17/Passaic/"/>
+    <updated>2010-10-17T22:19:00-04:00</updated>
+    <id>http://torahstream.github.com/blog/2010/10/17/Passaic</id>
+    <content type="html"><![CDATA[<ul>
+<li><audio controls><source src='http://historic.torahstream.org/cas/ecac1ba109bb9f3097fe971cf98cb0e0244506876534cb1a24ba5416788cb342/data.m4a'></audio></li>
+</ul>
+
 ]]></content>
   </entry>
   
