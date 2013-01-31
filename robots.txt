@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://torahstream.github.com/sitemap.xml 
